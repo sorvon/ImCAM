@@ -1,0 +1,3 @@
+vcpkg install imgui
+vcpkg install vulkan
+vcpkg install vulkan-memory-allocator
